@@ -1,0 +1,303 @@
+{
+  "frames": {
+    "basket.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 1536,
+        "h": 1024
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1536,
+        "h": 1024
+      },
+      "sourceSize": {
+        "w": 1536,
+        "h": 1024
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "egg2.png": {
+      "frame": {
+        "x": 1542,
+        "y": 2,
+        "w": 288,
+        "h": 344
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 288,
+        "h": 344
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tile.png": {
+      "frame": {
+        "x": 1834,
+        "y": 2,
+        "w": 94,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "egg6.png": {
+      "frame": {
+        "x": 1542,
+        "y": 350,
+        "w": 282,
+        "h": 347
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 282,
+        "h": 347
+      },
+      "sourceSize": {
+        "w": 282,
+        "h": 347
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "egg4.png": {
+      "frame": {
+        "x": 1542,
+        "y": 701,
+        "w": 280,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 280,
+        "h": 356
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "egg0.png": {
+      "frame": {
+        "x": 2,
+        "y": 1061,
+        "w": 278,
+        "h": 357
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 278,
+        "h": 357
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 357
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "egg5.png": {
+      "frame": {
+        "x": 2,
+        "y": 1422,
+        "w": 271,
+        "h": 357
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 271,
+        "h": 357
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 357
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "egg3.png": {
+      "frame": {
+        "x": 277,
+        "y": 1422,
+        "w": 279,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 279,
+        "h": 356
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "egg7.png": {
+      "frame": {
+        "x": 284,
+        "y": 1061,
+        "w": 276,
+        "h": 353
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 276,
+        "h": 353
+      },
+      "sourceSize": {
+        "w": 276,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "egg9.png": {
+      "frame": {
+        "x": 560,
+        "y": 1418,
+        "w": 278,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 278,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 351
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "egg8.png": {
+      "frame": {
+        "x": 564,
+        "y": 1061,
+        "w": 280,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 280,
+        "h": 349
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "egg1.png": {
+      "frame": {
+        "x": 842,
+        "y": 1414,
+        "w": 264,
+        "h": 339
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 339
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 339
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-cli",
+    "version": "0.3.0",
+    "image": "texture_gui.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": 1
+  }
+}
